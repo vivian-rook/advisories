@@ -25,6 +25,10 @@ advisories:
         type: fixed
         data:
           fixed-version: 9.0.200-r0
+      - timestamp: 2025-04-09T13:16:05Z
+        type: fixed
+        data:
+          fixed-version: 9.0.2-r0
 
   - id: CGA-hjpg-mg8q-9qm3
     aliases:
@@ -47,6 +51,10 @@ advisories:
         type: fixed
         data:
           fixed-version: 9.0.200-r0
+      - timestamp: 2025-04-09T13:13:54Z
+        type: fixed
+        data:
+          fixed-version: 9.0.2-r0
 
   - id: CGA-m36h-h5q7-hgpf
     aliases:
@@ -69,6 +77,10 @@ advisories:
         type: fixed
         data:
           fixed-version: 9.0.200-r0
+      - timestamp: 2025-04-09T13:14:51Z
+        type: fixed
+        data:
+          fixed-version: 9.0.2-r0
 
   - id: CGA-mc5p-vpjj-qhw4
     aliases:
@@ -91,6 +103,10 @@ advisories:
         type: fixed
         data:
           fixed-version: 9.0.200-r0
+      - timestamp: 2025-04-09T13:16:40Z
+        type: fixed
+        data:
+          fixed-version: 9.0.2-r0
 
   - id: CGA-x78x-59mv-752f
     aliases:
@@ -135,3 +151,7 @@ advisories:
         type: fixed
         data:
           fixed-version: 9.0.200-r0
+      - timestamp: 2025-04-09T13:15:37Z
+        type: fixed
+        data:
+          fixed-version: 9.0.2-r0
